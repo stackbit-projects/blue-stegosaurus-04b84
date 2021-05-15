@@ -75,3 +75,4 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+domain: 'https://blue-stegosaurus-04b84.netlify.app'
